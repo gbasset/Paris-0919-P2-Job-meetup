@@ -1,3 +1,6 @@
+![Skills Application](./breakit/frontEnd/src/components/img/plancheSKILLS.jpg)
+
+
 # Paris-0919-P2-Job-meetup
 
 To start this project please install all packages needed by enter those commands :
